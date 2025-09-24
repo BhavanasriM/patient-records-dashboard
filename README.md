@@ -27,7 +27,7 @@ A modern, responsive React application for efficiently managing patient records 
 
 ## 🚀 Live Demo
 
-[View Live Application]()
+[View Live Application](https://patient-records-dashboard-rho.vercel.app/)
 
 ## ✨ Features
 
